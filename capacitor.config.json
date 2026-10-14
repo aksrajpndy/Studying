@@ -1,0 +1,10 @@
+{
+  "appId": "com.studyring.app",
+  "appName": "StudyRing",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#2345F0"
+    }
+  }
+}
